@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../projects/project1/scripts/learning_model.py - [ML_course_kyu]'" />
-    <option name="defaultScopeName" value="File '.../projects/project1/scripts/learning_model.py - [ML_course_kyu]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../projects/project1/scripts/learning_model.py - [ML_course_kyu]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
