@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="11032ace-6c68-41c7-a497-cc36c8b01615" name="cvlabdata3" url="http://iccvlabsrv15.iccluster.epfl.ch">
+      <webServer id="11032ace-6c68-41c7-a497-cc36c8b01615" name="cv15" url="http://iccvlabsrv15.iccluster.epfl.ch">
         <fileTransfer host="iccvlabsrv15.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
