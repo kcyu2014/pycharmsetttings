@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a6698c07-8c1e-4728-a6f8-27be059d1232" name="cv26" url="http://iccvlabsrv26.iccluster.epfl.ch">
+        <fileTransfer host="iccvlabsrv26.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
