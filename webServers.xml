@@ -41,6 +41,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="eae12dbb-74bf-4290-abde-c2d321c12433" name="kyu@dgxstation.epfl.ch:22" url="http:///">
+        <fileTransfer host="dgxstation.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
