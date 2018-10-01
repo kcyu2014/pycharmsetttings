@@ -1,8 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -12,36 +8,14 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="Console.Execute.Multiline" />
-  <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorDeleteLine" />
-  <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-  </action>
-  <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-    <keyboard-shortcut first-keystroke="meta m" />
-  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
-  <action id="ExecuteInPyConsoleAction">
-    <keyboard-shortcut first-keystroke="ctrl meta enter" />
-  </action>
-  <action id="FileChooser.GotoProject" />
-  <action id="IpnbSaveAction">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
-  <action id="MinimizeCurrentWindow" />
-  <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+  <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+  <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NextOccurence" />
-  <action id="PreviousOccurence" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -57,7 +31,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
+  <action id="TableResult.GrowSelection" />
 </keymap>
