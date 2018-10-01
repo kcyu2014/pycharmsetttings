@@ -1,6 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="version" value="2.9.0-pre1" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="ffd866" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-5434c496:1657fb796a7:-8000" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
