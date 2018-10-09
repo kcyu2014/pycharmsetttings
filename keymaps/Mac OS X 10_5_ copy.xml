@@ -8,6 +8,9 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="MoveStatementDown">
