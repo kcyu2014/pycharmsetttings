@@ -17,7 +17,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="d6e7fa53-4e3c-429c-86e6-93db70a5ee21" name="cv140" url="http://iccluster140.iccluster.epfl.ch">
+      <webServer id="d6e7fa53-4e3c-429c-86e6-93db70a5ee21" name="cvlabdata1-home" url="http://iccluster140.iccluster.epfl.ch">
         <fileTransfer host="iccluster140.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/cvlabdata1/home/kyu" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -46,7 +46,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="68c251b4-aae2-40df-affb-7a534fe1adba" name="kyu@iccvlabsrv27.iccluster.epfl.ch:22" url="http:///">
+      <webServer id="68c251b4-aae2-40df-affb-7a534fe1adba" name="cvlab-home" url="http:///">
         <fileTransfer host="iccvlabsrv27.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
