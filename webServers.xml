@@ -75,6 +75,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="74f098d5-673a-426e-8a8e-3c811111f2ca" name="cvlabdata2-home" url="http://iccvlabsrv15.iccluster.epfl.ch">
+        <fileTransfer host="iccvlabsrv15.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/cvlabdata2/home/kyu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
