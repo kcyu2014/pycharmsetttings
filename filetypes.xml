@@ -7,6 +7,7 @@
       <mapping pattern="experiment_pca" type="PLAIN_TEXT" />
       <mapping pattern="backup asins" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
+      <mapping pattern="epflhand-new" type="YAML" />
     </extensionMap>
   </component>
 </application>
