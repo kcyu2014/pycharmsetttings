@@ -59,6 +59,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c0eb76f2-f559-415c-8908-5e12c139ecba" name="kyu@iccluster132.iccluster.epfl.ch:22" url="http:///">
+        <fileTransfer host="iccluster132.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
