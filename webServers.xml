@@ -70,7 +70,12 @@
         </fileTransfer>
       </webServer>
       <webServer id="1c5e824e-7ea9-45b3-a041-f7d6ddaa97be" name="kyu@iccluster135.iccluster.epfl.ch:22" url="http:///">
-        <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="08bb9656-4a20-41e6-a519-e81c2e65ee69" name="kyu@iccluster135.iccluster.epfl.ch:22 (1)" url="http:///">
+        <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
