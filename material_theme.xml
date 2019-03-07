@@ -3,10 +3,10 @@
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="ffd866" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="d33682" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="-5434c496:1657fb796a7:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
