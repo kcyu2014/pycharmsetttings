@@ -65,7 +65,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="70d8b966-56b8-4df0-898d-9ee40c0719fc" name="cv135" url="http:///">
-        <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu/.pycharm" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
