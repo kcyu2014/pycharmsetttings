@@ -4,7 +4,7 @@
     <property name="created">2019-04-02T15:16:35</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-04-02T15:16:39</property>
+    <property name="modified">2019-04-02T16:35:41</property>
     <property name="originalScheme">Material Solarized Light copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1158,6 +1158,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff7742" />
         <option name="EFFECT_COLOR" value="dc322f" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
@@ -4205,7 +4206,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ffdf80" />
+        <option name="BACKGROUND" value="fde9d2" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
