@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a12ac3ba-788b-42c6-bce9-746c23b362a6" name="intel-cluster" url="http://vcl-iam1.sc.intel.com">
+        <fileTransfer host="vcl-iam1.sc.intel.com" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="582161a7-56a2-4fe6-8a6a-234627e2ffd0" name="intel-desktop" url="http://10.62.181.50">
+        <fileTransfer host="10.62.181.50" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="24641e65-8c4d-4bbc-8b86-6f3df090d48a" name="cvlabdata3" url="http://iccvlabsrv16.iccluster.epfl.ch">
         <fileTransfer host="iccvlabsrv16.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/cvlabdata3-scratch/kyu/" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -76,6 +92,11 @@
       </webServer>
       <webServer id="08bb9656-4a20-41e6-a519-e81c2e65ee69" name="kyu@iccluster135.iccluster.epfl.ch:22 (1)" url="http:///">
         <fileTransfer host="iccluster135.iccluster.epfl.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/kyu" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5304acbe-851a-4b83-9cd6-f8d81433c308" name="yukaiche@10.62.181.50:22" url="http:///">
+        <fileTransfer host="10.62.181.50" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
