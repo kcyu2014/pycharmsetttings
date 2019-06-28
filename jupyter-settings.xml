@@ -6,7 +6,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="readOnly" value="true" />
-              <option name="token" value="2b61626a60d575645e70a92257ad604ebc9723438d824e06" />
+              <option name="token" value="&lt;generated&gt;" />
               <option name="urlString" value="http://10.62.181.50:8888" />
             </JupyterConnectionParameters>
           </value>
