@@ -6,8 +6,8 @@
           <value>
             <JupyterConnectionParameters>
               <option name="readOnly" value="true" />
-              <option name="token" value="&lt;generated&gt;" />
-              <option name="urlString" value="http://10.62.181.50:8888" />
+              <option name="token" value="6ac1890405ca7b96c4f332a1c7c07c1d6e7807a86a94109c" />
+              <option name="urlString" value="http://KaichengdeiMac.local:8888" />
             </JupyterConnectionParameters>
           </value>
         </entry>
