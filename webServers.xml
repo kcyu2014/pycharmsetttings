@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a12ac3ba-788b-42c6-bce9-746c23b362a6" name="intel-cluster" url="http://vcl-iam1.sc.intel.com">
-        <fileTransfer host="vcl-iam1.sc.intel.com" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
+      <webServer id="a12ac3ba-788b-42c6-bce9-746c23b362a6" name="intel-cluster" url="http://vcl-iam2.sc.intel.com">
+        <fileTransfer host="vcl-iam2.sc.intel.com" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
