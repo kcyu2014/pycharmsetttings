@@ -5,7 +5,6 @@
         <entry key="$USER_HOME$/Dropbox/git/code-bases/automl/.idea/automl.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="&lt;generated&gt;" />
               <option name="urlString" value="http://10.62.181.50:8888" />
             </JupyterConnectionParameters>
@@ -14,7 +13,6 @@
         <entry key="$USER_HOME$/Dropbox/git/nasbench/.idea/nasbench.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="&lt;generated&gt;" />
               <option name="urlString" value="http://10.62.181.50:8888" />
             </JupyterConnectionParameters>
@@ -23,7 +21,6 @@
         <entry key="$USER_HOME$/Dropbox/git/nasbench101_pytorch/.idea/nasbench101_pytorch.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="&lt;generated&gt;" />
               <option name="urlString" value="http://10.62.181.50:8888" />
             </JupyterConnectionParameters>
@@ -32,7 +29,6 @@
         <entry key="$USER_HOME$/data/nips-2450/.idea/nips-2450.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="&lt;generated&gt;" />
               <option name="urlString" value="http://10.62.181.50:8888" />
             </JupyterConnectionParameters>
@@ -41,7 +37,6 @@
         <entry key="$USER_HOME$/git/MAML-in-pytorch/.idea/MAML-in-pytorch.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="fba5758edcb5302e2273872bd0724448d424ac4b9fcc7e95" />
               <option name="urlString" value="http://172.25.67.224:6123" />
             </JupyterConnectionParameters>
@@ -50,7 +45,6 @@
         <entry key="$USER_HOME$/git/Meta-SGD-pytorch/.idea/Meta-SGD-pytorch.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="fba5758edcb5302e2273872bd0724448d424ac4b9fcc7e95" />
               <option name="urlString" value="http://172.25.67.224:6123" />
             </JupyterConnectionParameters>
@@ -60,6 +54,7 @@
     </option>
   </component>
   <component name="JupyterSettings">
+    <option name="autoscrollToSource" value="false" />
     <option name="showSourcesInPreview" value="false" />
   </component>
 </application>
