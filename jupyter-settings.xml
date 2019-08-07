@@ -38,6 +38,24 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/git/MAML-in-pytorch/.idea/MAML-in-pytorch.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="&lt;generated&gt;" />
+              <option name="urlString" value="https://10.62.181.50:9000" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/git/Meta-SGD-pytorch/.idea/Meta-SGD-pytorch.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="" />
+              <option name="urlString" value="https://10.62.181.50:9000" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
