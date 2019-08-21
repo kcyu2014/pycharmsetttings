@@ -5,8 +5,8 @@
         <entry key="$USER_HOME$/Dropbox/git/code-bases/automl/.idea/automl.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="&lt;generated&gt;" />
-              <option name="urlString" value="http://10.62.181.50:8888" />
+              <option name="token" value="2dfe9bdf1434d7d12f12e4ea70f701277af17b200649456c" />
+              <option name="urlString" value="http://172.25.67.162:6123" />
             </JupyterConnectionParameters>
           </value>
         </entry>
