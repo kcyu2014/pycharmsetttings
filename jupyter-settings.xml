@@ -5,8 +5,8 @@
         <entry key="$USER_HOME$/Dropbox/git/code-bases/automl/.idea/automl.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="12731f0c28bc966d25a12d5da3e0093c423c94a90422fdc7" />
-              <option name="urlString" value="http://172.25.67.165:6123" />
+              <option name="token" value="da790f16fe641580b63d145349b020787845f5bf49e731ab" />
+              <option name="urlString" value="http://172.25.67.162:6123/" />
             </JupyterConnectionParameters>
           </value>
         </entry>
@@ -54,8 +54,6 @@
     </option>
   </component>
   <component name="JupyterSettings">
-    <option name="autoscrollFromSource" value="false" />
-    <option name="autoscrollToSource" value="false" />
     <option name="showSourcesInPreview" value="false" />
   </component>
 </application>
