@@ -9,8 +9,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="582161a7-56a2-4fe6-8a6a-234627e2ffd0" name="intel-desktop" url="http://10.62.181.50">
-        <fileTransfer host="10.62.181.50" port="22" accessType="SFTP">
+      <webServer id="582161a7-56a2-4fe6-8a6a-234627e2ffd0" name="intel-desktop" url="">
+        <fileTransfer host="10.62.181.50" port="22" rootFolder="/home/yukaiche" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
